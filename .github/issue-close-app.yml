@@ -13,6 +13,6 @@ issueConfigs:
   - "Use Case"
   - "Describe the solution you'd like"
   - "Describe alternatives you've considered"
-  = "Additional context"
+  - "Additional context"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
