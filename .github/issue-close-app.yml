@@ -4,14 +4,15 @@ issueConfigs:
 # There can be several configs for different kind of issues.
 - content:
 # Example 1: bug report
+  - "Describe the bug"
   - "Expected Behavior"
-  - "Current Behavior"
   - "Steps to Reproduce"
-  - "Detailed Description"
+  - "Current Behavior"
 - content:
 # Example 2: feature request
-  - "Motivation / Use Case"
-  - "Expected Behavior"
-  - "Other Information"
+  - "Use Case"
+  - "Describe the solution you'd like"
+  - "Describe alternatives you've considered"
+  = "Additional context"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
